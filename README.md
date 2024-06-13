@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amaralTheSage
 - 👀 I’m interested in: FullStack Web Dev'ing
 - 🌱 I’m currently learning: honestly so much stuff (mainly backend)
-- 📫 How to reach me: dont
+- 📫 How to reach me: 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: probably insane
 
