@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amaralTheSage
 - 👀 I’m interested in: FullStack Web Dev'ing
-- 🌱 I’m currently learning: honestly so much stuff (mainly backend)
 - 📫 How to reach me: through email - amaraldesouza9@gmail.com
 - 😄 Pronouns: he/him
 
